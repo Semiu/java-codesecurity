@@ -1,8 +1,8 @@
-Date = 02/09/2021, 5.37pm
+//Date = 02/09/2021, 5.37pm
 
-Request URL = https://api.xforce.ibmcloud.com/vulnerabilities/fulltext?q=Java
+//Request URL = https://api.xforce.ibmcloud.com/vulnerabilities/fulltext?q=Java
 
-Response = 
+//Response = 
 
 {
   "total_rows": 1961,
