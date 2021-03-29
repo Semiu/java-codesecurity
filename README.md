@@ -25,5 +25,6 @@ In answering this central question, the following are the objectives of the stud
 * Tokenization of the projects' git commit messages and identification of mutual tokens with the MITRE's Java vulnerabilities tokens.
 
 3. Variant analysis using CodeQL
+
 **ongoing**
 
