@@ -26,8 +26,10 @@ In answering this central question, the following are the objectives of the stud
 
 3. Variant analysis using CodeQL
 * Conversion of the codebase to database for CodeQL functionality using this command from the home directory. 
+
 *codeql database create <database> --language=<language-identifier>*
  
  Example: codeql database create C:\Users\Semiu\JavaCodeQLDb\zxing_zxing --language=java
+ 
  The detailed process of creating CodeQL databases can be found [here](https://codeql.github.com/docs/codeql-cli/creating-codeql-databases/).
 
