@@ -1,7 +1,7 @@
 ## java-codesecurity
 ### Analysis of Java's Common Vulnerabilities and Exposures in GitHub's Projects
 
-This ongoing project is in partial fulfilment of the degree of Master of Science, Software Engineering.
+This project is in partial fulfilment of the degree of Master of Science, Software Engineering. Spring 2022 Commencement, North Dakota State University.
 
 The central question aimed to be answered by this study is: How secured are the codes written in the top 100 GitHub's Java projects?
 
