@@ -2,7 +2,7 @@
 
 This repository contains different research projects on Java CVEs.
 
-### 1. Text annd Static Analysis of Java's Common Vulnerabilities and Exposures in GitHub's Projects.
+### 1. Text and Static Analysis of Java's Common Vulnerabilities and Exposures in GitHub's Projects.
 
 ![Vulnerabilities tokens](java-cve-analysis/image/vultokens.jpg)
 
