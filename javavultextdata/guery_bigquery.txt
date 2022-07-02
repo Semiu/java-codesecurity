@@ -1,0 +1,23 @@
+#This query is run on Google Big Query Tool
+#It is to determine the number of repos publicly available in GitHub for Java, JavaScript and Python
+#Run the query provided on the Google big query platform
+#Set the SQL dialect as legacy
+#This was last run on 02/07/2021, 2.18am to generate the repo_count.csv
+#Save the result as repo_count.csv
+
+
+#---------START --------#
+SELECT
+  LANGUAGE.name,
+  COUNT(LANGUAGE.name)
+FROM
+  [bigquery-public-data:github_repos.languages]
+WHERE
+  LANGUAGE.name = 'Java'
+  OR LANGUAGE.name = 'JavaScript'
+  OR LANGUAGE.name = 'Python'
+GROUP BY
+  LANGUAGE.name;
+
+
+#---------END --------#
