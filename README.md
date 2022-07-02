@@ -6,7 +6,7 @@ This repository contains different research projects on Java CVEs.
 
 ![Vulnerabilities tokens](java-cve-analysis/image/vultokens.jpg)
 
-The details of this project can be found in the `java-cve-analysis` folder. This is a completed part of the research project.
+The details of this project can be found in the `java-cve-analysis` folder. This is a completed part of the research project, though open for improvements.
 
 The `javavultextdata` contains different data on Java CVE descriptions. The most important is the `mitrejavacve.csv` which is the Java CVEs scraped from the MITRE website.
 
