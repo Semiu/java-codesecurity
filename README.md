@@ -1,4 +1,4 @@
-## Exploring Machine Learning Models and Techniques for Java's Common Vulnerabilities and Exposures
+## Exploring Machine Learning Models and Techniques for Analyzing, Classifying, and Detecting Java's Common Vulnerabilities and Exposures
 
 This repository contains different research projects on Java CVEs.
 
