@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+#Mine included
+java-cve-analysis/1-data-scraping-curating/.ipynb_checkpoints/
 
 # Distribution / packaging
 .Python
