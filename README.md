@@ -15,6 +15,3 @@ This can be updated by running the `java-cve-analysis/1-data-scraping-curating/j
 ### 2. Classification of MITRE's Java's Common Vulnerabilities and Exposures Descriptions
 
 The details of this project can be found in the `java-cve-text-classification` folder.
-
-### 3. Automated Detection of Software Vulnerabilites in Java Program Source Code.
-The details of this project can be found in the `java-cve-detection` folder. This is an ongoing part of the research project.
