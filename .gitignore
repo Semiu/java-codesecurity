@@ -8,7 +8,8 @@ __pycache__/
 # Mine included
 java-cve-analysis/1-data-scraping-curating/.ipynb_checkpoints/
 java-cve-analysis/2-text-analysis-CVE-Commits/.ipynb_checkpoints/
-
+cve-automated-detection/
+cve-automated-detection/*
 # Distribution / packaging
 .Python
 build/
