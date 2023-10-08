@@ -1,8 +1,4 @@
-## Exploring Machine and Deep Learning Models for Analyzing, Classifying, and Detecting Java's Common Vulnerabilities and Exposures.
-
-This repository contains different research projects on Java CVEs.
-
-### 1. Text and Static Analysis of Java's Common Vulnerabilities and Exposures in GitHub's Projects.
+### Text and Static Analysis of Java's Common Vulnerabilities and Exposures in GitHub's Projects.
 
 ![Vulnerabilities tokens](java-cve-analysis/image/vultokens.jpg)
 
